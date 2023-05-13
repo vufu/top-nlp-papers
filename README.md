@@ -93,12 +93,8 @@ Our repository is all about community-driven knowledge sharing. That's why we re
 ### ~1950
 
 ## Tags
-- `Factual Verificaiton`
-- `Instruction Tuning`
 - `LLMs`
-- `Relation Extraction`
-- `Summarization`
-- `Topic Model`
+
 
 ## Other List
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)  
